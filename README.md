@@ -1,4 +1,4 @@
-aladdin.github.com
+aladdin
 ==================
 
 阿拉丁组件库
